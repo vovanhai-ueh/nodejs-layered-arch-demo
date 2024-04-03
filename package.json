@@ -1,0 +1,28 @@
+{
+  "name": "layered",
+  "version": "1.0.0",
+  "description": "demo layered arch in nodejs",
+  "main": "EnrollmentServer.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovanhai-ueh/nodejs-layered-arch-demo.git"
+  },
+  "keywords": [
+    "layered",
+    "arch"
+  ],
+  "author": "Vo Van Hai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovanhai-ueh/nodejs-layered-arch-demo/issues"
+  },
+  "homepage": "https://github.com/vovanhai-ueh/nodejs-layered-arch-demo#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mariadb": "^3.3.0"
+  }
+}
